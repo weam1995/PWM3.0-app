@@ -1,0 +1,6 @@
+@PWM3._0_app.Server_HostAddress = http://localhost:5218
+
+GET {{PWM3._0_app.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
